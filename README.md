@@ -1,7 +1,8 @@
 # My code examples
 
 *Simple PHP MVC Fraemowork.*
-- https://simplemvc1.000webhostapp.com/
+- http://dufowo.zzz.com.ua/ (password: 123 login: admin)
+- http://dufowo.zzz.com.ua/dayside/index.php (password:123)
 - https://github.com/teimur8/task_php_simple_psr_mvc
 
 *REST API from mobile app.*
